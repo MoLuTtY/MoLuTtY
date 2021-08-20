@@ -21,7 +21,7 @@ My GitHub Stats
 <br>
 <p align="center">connect with me</p>
 <p align="center"</p>
-<a  href="linkedin.com/in/anagha-sr-78b332217" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a  href="https://www.linkedin.com/in/anagha-sr-78b332217/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a  href="https://twitter.com/anagha_sr" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
 <a  href="https://www.instagram.com/anagha_raj_eev/" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!---
