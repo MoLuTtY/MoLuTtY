@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Anagha S R😊</h1>
-<h2 align="center">An enthusiastic developer 👩‍💻<h2>
+<h3 align="center">An enthusiastic developer 👩‍💻</h3>
 <h3 align="center">Doing Masters 👨‍🎓 in Computer Application 💻</h3>
 <h3>I like trying new things .....I tune-in to learn new things every day and try to deploy it in real life projects !!</h3>
 <br>
