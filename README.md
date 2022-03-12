@@ -23,7 +23,7 @@ My GitHub Stats
 <p align="center"</p>
 <a  href="https://www.linkedin.com/in/anagha-sr-78b332217/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a  href="https://twitter.com/anagha_sr" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
-<a  href="https://www.instagram.com/anagha_raj_eev/" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a  href="https://www.instagram.com/anagha_sr__/" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!---
 MoLuTtY/MoLuTtY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
